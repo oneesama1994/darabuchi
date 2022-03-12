@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/darabuchi/static/bc5ed83dc10e45c0d590ee427269391a/thumbnail-650-937.pbew","relativePath":"Tsumareta Ikoku no Hana 1/thumbnail-650-937.pbew","name":"thumbnail-650-937"}},{"node":{"publicURL":"/darabuchi/static/dacc2eabd2c3565ae7677b312bd540cf/thumbnail-650-922.pbew","relativePath":"Tsumareta Ikoku no Hana 2/thumbnail-650-922.pbew","name":"thumbnail-650-922"}},{"node":{"publicURL":"/darabuchi/static/f10a0e9f9a80e3c096802a64bade444e/thumbnail-650-922.pbew","relativePath":"Tsumareta Ikoku no Hana 3/thumbnail-650-922.pbew","name":"thumbnail-650-922"}},{"node":{"publicURL":"/darabuchi/static/bb182875928713a93f054d3eee20beca/thumbnail-650-922.pbew","relativePath":"Tsumareta Ikoku no Hana 4/thumbnail-650-922.pbew","name":"thumbnail-650-922"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
